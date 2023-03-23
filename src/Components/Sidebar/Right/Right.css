@@ -1,0 +1,129 @@
+.right_sidebar {
+  margin-bottom: 100px;
+  width: 30%;
+  margin-left: 30px;
+}
+
+.linkednews {
+  padding: 0px 10px 10px 10px;
+  margin-top: 3%;
+  border-radius: 3%;
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+  background-color: rgb(255, 255, 255);
+}
+
+.linkednews > ul {
+  margin: 15px 0 0 20px;
+  font-size: 15px;
+}
+
+.linkednews > ul > li {
+  margin-top: 10px;
+  font-weight: 600;
+  color: rgba(27, 26, 26, 0.781);
+}
+
+.linkednews > ul > p {
+  font-size: 12px;
+}
+
+.right_showmore {
+  display: flex;
+  padding: 5px 0px 0px 10px;
+}
+
+.top_courses {
+  padding: 0px 10px 10px 10px;
+  margin-top: 3%;
+  border-radius: 3%;
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+  background-color: rgb(255, 255, 255);
+}
+
+.top_courses > ul {
+  margin: 15px 0 0 20px;
+  font-size: 15px;
+}
+
+.top_courses > ul > li {
+  margin-top: 10px;
+  font-weight: 600;
+  color: rgba(27, 26, 26, 0.781);
+}
+
+.top_courses > ul > p {
+  font-size: 12px;
+}
+
+.showmore1 {
+  display: flex;
+  padding: 5px 0px 0px 10px;
+}
+
+.addvertise {
+  padding: 20px 15px 15px 20px;
+  margin-top: 3%;
+  border-radius: 3%;
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+  background-color: rgb(255, 255, 255);
+}
+
+.about {
+  padding-top: 20px;
+  display: flex;
+  font-size: 13px;
+  font-weight: 600;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.terms {
+  display: flex;
+  align-items: center;
+}
+
+.privacy {
+  display: flex;
+  font-size: 13px;
+  font-weight: 600;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 10px 5px 0px 5px;
+}
+
+.add {
+  display: flex;
+  font-size: 13px;
+  font-weight: 600;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 10px 5px 0px 5px;
+}
+
+.add > div {
+  display: flex;
+  align-items: center;
+}
+
+.linkedin_app {
+  display: flex;
+  font-size: 13px;
+  font-weight: 600;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 10px 5px 0px 5px;
+}
+
+.last {
+  display: flex;
+  font-size: 13px;
+  font-weight: 600;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 10px 5px 0px 5px;
+}
+
+.addvertise > img {
+  height: 100%;
+  width: 100%;
+}

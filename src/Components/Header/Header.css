@@ -1,0 +1,50 @@
+.linkedin {
+  height: 50px;
+  width: 50px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header__right {
+  display: flex;
+  align-items: center;
+}
+
+.header__left {
+  display: flex;
+  align-items: center;
+}
+
+.icons {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0px 20px;
+  color: grey;
+  cursor: pointer;
+}
+
+.icons:hover {
+  color: rgb(14, 13, 13);
+}
+
+.input {
+  border: grey solid 1px;
+  width: 400px;
+  height: 30px;
+  border-radius: 999px;
+  display: flex;
+  align-items: center;
+}
+
+.input > input {
+  border: none;
+  outline: none;
+  text-align: center;
+  width: 300px;
+}
